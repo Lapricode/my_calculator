@@ -1,0 +1,15 @@
+ð|||3.141592653589793|||pi
+e|||2.718281828459045|||Euler number
+ö|||1.618033988749895|||golden ratio
+h|||6.62607015e-34|||Planck constant (J*s)
+c|||299792458|||speed of light in vacuum (m/s)
+G|||6.6743015e-11|||Newtonian constant of gravitation (m³/(kg*s²))
+å0|||8.854187812813e-12|||vacuum electric permittivity (F/m)
+ì0|||1.2566370621219e-6|||vacuum magnetic permeability (N/A²)
+qe|||-1.602176634e-19|||electron charge (C)
+me|||9.109383701528e-31|||electron mass (kg)
+NA|||6.02214076e+23|||Avogadro constant (1/mol)
+k|||1.380649e-23|||Boltzmann constant (J/K)
+R|||1.097373156816021e+7|||Rydberg constant (1/m)
+Rã|||6371000|||earth radius (m)
+Mã|||5.97237e+24|||earth mass (kg)
